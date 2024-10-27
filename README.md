@@ -31,7 +31,12 @@ Project Details
  - Course Project: Sigma 4.0, Apna College
 
 Author
+
  - SK Akram ([@akramcodez](https://github.com/akramcodez))
+
+Live Preview
+
+-  Check out the final result - https://simon-says-game-by-akram.web.app/
 
 Connect with Me!
 
